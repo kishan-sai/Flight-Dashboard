@@ -1,5 +1,7 @@
 # ✈️ Indigo Flight Dashboard – Excel-Based Business Intelligence Project
 
+![Dashboard Preview](Airlines Dashboard.png)
+
 ## 📌 Project Overview
 
 This project presents a comprehensive Excel dashboard built to analyze **Indigo Airlines flight data**. The goal was to extract key operational and performance insights using Excel's interactive tools like **PivotTables**, **Slicers**, and **VBA Macros**.
