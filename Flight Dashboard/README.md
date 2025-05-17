@@ -1,6 +1,6 @@
 # ✈️ Indigo Flight Dashboard – Excel-Based Business Intelligence Project
 
-![Dashboard Preview](Airlines Dashboard.png)
+![Dashboard Preview](Airlines-Dashboard.png)
 
 ## 📌 Project Overview
 
